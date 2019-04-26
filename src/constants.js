@@ -1,0 +1,15 @@
+export const POST_PROPS = [
+  'subreddit',
+  'author',
+  'title',
+  'selftext',
+  'preview',
+  'url',
+  'media',
+  'secure_media',
+  'created_utc',
+  'thumbnail',
+  'permalink',
+  'id',
+  'crosspost_parent_list',
+];
